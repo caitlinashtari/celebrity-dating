@@ -1,0 +1,9 @@
+.btn {
+  display: block;
+}
+
+#match,
+#under-21,
+#error {
+  display: none;
+}
